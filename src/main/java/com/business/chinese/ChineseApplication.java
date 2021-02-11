@@ -8,6 +8,7 @@ public class ChineseApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ChineseApplication.class, args);
+		System.out.println("");
 	}
 
 }
